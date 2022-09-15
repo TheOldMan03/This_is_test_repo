@@ -2,6 +2,7 @@
 #include <string>
 
 using namespace std;
+//This programs accepts a string and prints out a pyramid style, just try the program....
 
 int main(){
 	
